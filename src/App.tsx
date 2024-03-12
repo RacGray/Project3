@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { WelcomePage } from './pages/WelcomePage';
 import { SellerPage } from './components/SellerPage';
 import { ProductPage } from './components/ProductPage';
-import { PageNotFoundPage } from './components/PageNotfoundPage';
+import { PageNotFoundPage } from './components/PageNotFoundPage';
 import { NavigationFunction } from "./components/Navbar";
 
 function App() {

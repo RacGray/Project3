@@ -1,5 +1,5 @@
 import React from "react";
-import { getAllSellerAPI} from "../services/SellerService";
+import { getAllSellerAPI } from "../services/SellerService";
 
 export function SellerPage() {
   function getSellers() {
