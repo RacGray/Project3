@@ -1,4 +1,4 @@
-export interface seller {
-    SellerID:string,
-    SellerName:string  
-  }
+export interface Seller {
+  SellerID: string;
+  SellerName: string;
+}
